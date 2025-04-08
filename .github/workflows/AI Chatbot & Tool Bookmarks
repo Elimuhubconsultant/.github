@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A collection of AI chatbots, tools, and image generation resources.">
+    <title>AI Chatbot & Tool Bookmarks</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Resetting default browser styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Body and Container Styles */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.6;
+            padding: 0;
+            margin: 0;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #007BFF;
+            margin-bottom: 20px;
+        }
+
+        .bookmark-section {
+            margin-bottom: 30px;
+        }
+
+        .bookmark-section p {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        /* Styling Bookmark List */
+        .bookmark-list {
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        .bookmark-list li {
+            margin: 12px 0;
+            transition: transform 0.2s ease-in-out;
+        }
+
+        .bookmark-list li:hover {
+            transform: scale(1.05);
+        }
+
+        .bookmark-list a {
+            text-decoration: none;
+            font-size: 1rem;
+            color: #007BFF;
+            transition: color 0.3s, text-decoration 0.3s;
+        }
+
+        .bookmark-list a:hover {
+            color: #0056b3;
+            text-decoration: underline;
+        }
+
+        /* Media Queries for Mobile Responsiveness */
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+                margin: 20px;
+            }
+
+            h1 {
+                font-size: 1.8rem;
+            }
+
+            .bookmark-list a {
+                font-size: 0.9rem;
+            }
+        }
+
+        /* Smooth Scroll for anchor links */
+        html {
+            scroll-behavior: smooth;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>AI Chatbot & Tool Bookmarks</h1>
+
+        <!-- AI Chatbots Section -->
+        <div class="bookmark-section">
+            <p>Popular AI Chatbots & Assistants:</p>
+            <ul class="bookmark-list">
+                <li><a href="https://chat.openai.com/" target="_blank">ChatGPT (OpenAI)</a></li>
+                <li><a href="https://bard.google.com/" target="_blank">Gemini (Google Bard)</a></li>
+                <li><a href="https://www.bing.com/chat" target="_blank">Microsoft Bing Chat</a></li>
+                <li><a href="https://claude.ai/" target="_blank">Claude (Anthropic)</a></li>
+                <li><a href="https://you.com/chat" target="_blank">YouChat (You.com)</a></li>
+                <li><a href="https://pi.ai/" target="_blank">Pi (Inflection AI)</a></li>
+                <li><a href="https://character.ai/" target="_blank">Character.AI</a></li>
+                <li><a href="https://perplexity.ai/" target="_blank">Perplexity AI</a></li>
+                <li><a href="https://forefront.ai/chat" target="_blank">Forefront AI</a></li>
+                <li><a href="https://writesonic.com/chatsonic" target="_blank">Chatsonic (Writesonic)</a></li>
+                <li><a href="https://blackboxai.com/" target="_blank">Blackbox AI</a></li>
+                <li><a href="https://www.phind.com/" target="_blank">Phind</a></li>
+                <li><a href="https://www.jasper.ai/chat" target="_blank">Jasper Chat</a></li>
+                <li><a href="https://www.chatpdf.com/" target="_blank">ChatPDF</a></li>
+                <li><a href="https://poe.com/" target="_blank">Poe</a></li>
+                <li><a href="https://ai.meta.com/" target="_blank">Meta AI</a></li>
+                <li><a href="https://auto-gpt.github.io/" target="_blank">Auto-GPT</a></li>
+                <li><a href="https://grok.x.ai/" target="_blank">Grok</a></li>
+                <li><a href="https://www.iask.ai/" target="_blank">iAsk.AI</a></li>
+                <li><a href="https://rytr.me/" target="_blank">Rytr</a></li>
+                <li><a href="https://anonchatgpt.com/" target="_blank">AnonChatGPT</a></li>
+                <li><a href="https://datalab.google.com/" target="_blank">DataLab</a></li>
+            </ul>
+        </div>
+
+        <!-- AI Code Development Tools Section -->
+        <div class="bookmark-section">
+            <p>AI Code Development Tools:</p>
+            <ul class="bookmark-list">
+                <li><a href="https://www.tabnine.com/" target="_blank">Tabnine</a></li>
+                <li><a href="https://aws.amazon.com/codewhisperer/" target="_blank">Amazon CodeWhisperer</a></li>
+                <li><a href="https://codegeex.cn/en-US" target="_blank">CodeGeeX</a></li>
+                <li><a href="https://codiga.io/" target="_blank">Codiga</a></li>
+                <li><a href="https://www.codium.ai/" target="_blank">CodiumAI</a></li>
+                <li><a href="https://codeium.com/" target="_blank">Codeium</a></li>
+                <li><a href="https://huggingface.co/Salesforce/codet5-base" target="_blank">CodeT5</a></li>
+                <li><a href="https://deepmind.google/discover/blog/alphacode-competition-level-code-generation/" target="_blank">AlphaCode</a></li>
+                <li><a href="AI code review" target="_blank">AI Code Review</a></li>
+            </ul>
+        </div>
+
+        <!-- Free Image Creation Tools Section -->
+        <div class="bookmark-section">
+            <p>Free Image Creation Tools:</p>
+            <ul class="bookmark-list">
+                <li><a href="https://www.canva.com/" target="_blank">Canva</a></li>
+                <li><a href="https://www.photopea.com/" target="_blank">Photopea</a></li>
+                <li><a href="https://www.fotor.com/" target="_blank">Fotor</a></li>
+                <li><a href="https://deepai.org/machine-learning-model/text2img" target="_blank">DeepAI Text to Image</a></li>
+                <li><a href="https://www.creativefabrica.com/tools/image-generator/" target="_blank">Creative Fabrica Image Generator</a></li>
+                <li><a href="https://www.artbreeder.com/" target="_blank">Artbreeder</a></li>
+                <li><a href="https://nightcafe.studio/" target="_blank">NightCafe Studio</a></li>
+                <li><a href="https://www.runwayml.com/" target="_blank">Runway ML</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
