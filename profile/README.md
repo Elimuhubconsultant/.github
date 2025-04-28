@@ -12,7 +12,7 @@ We believe **collaboration drives impact**, and we'd love for you to contribute!
 
 ### 📖 Resources & Documentation  
 For more information on our educational services and tech integrations, check out:  
-🔹 Our website: [Your Website URL]  
+🔹 Our website: [https://www.elimuhub.simdif.com]  
 🔹 Our latest projects and initiatives right here on GitHub!  
 
 ### 🎉 Fun Facts  
@@ -24,9 +24,9 @@ For more information on our educational services and tech integrations, check ou
 At Elimuhub, we believe that **education should be accessible, personalized, and impactful**. If you're passionate about learning and innovation, you're in the right place!  
 
 🔗 **Connect with us**  
-📧 Email: [Your Contact Email]  
-🌐 Website: [Your Website URL]  
-💬 Social Media: [Your Social Media Links]  
+📧 Email: [elimuhubconsultant@gmail.com]
+🌐 Website: [www.elimuhub.simdif.com] 
+💬 Social Media: [https://www.facebook.com/elimuhubconsultants]  
 
 ---
 
